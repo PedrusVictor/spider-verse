@@ -4,7 +4,10 @@
 @import url('../css/components/_pills.css');
 @import url('../css/components/_link-button.css');
 @import url('../css/components/_galery.css');
+<<<<<<< HEAD
 
+=======
+>>>>>>> 34cb4ec41797ac178bba9c683078f5d22ad326db
 .s-wrapper {
     display: flex;
     height: 100vh;
