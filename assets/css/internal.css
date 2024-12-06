@@ -1,10 +1,11 @@
 @import url('reset.css');
 @import url('global.css');
+/*
 @import url('./components/_navigator.css');
 @import url('./components/_pills.css');
 @import url('./components/_link-button.css');
 @import url('./components/_galery.css');
-
+*/
 .s-wrapper {
     display: flex;
     height: 100vh;
